@@ -268,9 +268,6 @@ public class CurrencyConverter {
                     }
 
                     break;
-                case 7:
-                    System.out.println("Cerrando el programa");
-                    break;
                 default:
                     System.out.println("Opcion NO valida \nPor favor seleccione una opcion valida.");
             }
